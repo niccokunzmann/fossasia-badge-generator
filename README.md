@@ -3,6 +3,7 @@ eventyay-badge-generator
 
 This script generates the badges for an exported list of speakers of the eventyey platform.
 
+[Download Current Badges](https://niccokunzmann.github.io/download_latest/ots-all-badges.pdf)
 [![Build Status](https://travis-ci.org/niccokunzmann/fossasia-badge-generator.svg?branch=master)][travis]
 
 Conversion
