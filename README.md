@@ -11,6 +11,7 @@ Used for
 
 - FOSSASIA 2017 (master)
 - [OpenTechSummit 2017 (ots-eventyay)](https://github.com/niccokunzmann/fossasia-badge-generator/tree/ots-eventyay)
+- [Badgeyay](https://github.com/fossasia/badgeyay/)
 
 Specification
 -------------
